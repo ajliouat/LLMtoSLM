@@ -88,5 +88,5 @@ We thank the open-source community for their continuous contributions and innova
 
 ## Contact
 
-For questions, suggestions, or collaborations, please reach out to us at [your_email@example.com](mailto:a.jliouat@yahoo.fr).
+For questions, suggestions, or collaborations, please reach out to us at [a.jliouat@yahoo.fr](mailto:a.jliouat@yahoo.fr).
 
